@@ -1,0 +1,5 @@
+auto rename tag 설치
+prettier 설치후 default -> code formatter -> 프리티어로 변경
+save -> format on save 체크 
+IntelliJ IDEA Keybindings  인텔리제이 단축키 사용
+Material Icon Theme
